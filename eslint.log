@@ -1,0 +1,19 @@
+
+/home/runner/work/exp-half-full-adder-iitr/exp-half-full-adder-iitr/experiment/images/binary.js
+   1:10  warning  'checkmyinput' is defined but never used     no-unused-vars
+  18:10  warning  'checkmyinputB' is defined but never used    no-unused-vars
+  34:10  warning  'checkmyinputC' is defined but never used    no-unused-vars
+  52:10  warning  'checkmyinputZ' is defined but never used    no-unused-vars
+  69:10  warning  'checkmyinputCin' is defined but never used  no-unused-vars
+  86:10  warning  'checkmyinputP' is defined but never used    no-unused-vars
+
+/home/runner/work/exp-half-full-adder-iitr/exp-half-full-adder-iitr/experiment/simulation/binary.js
+   1:10  warning  'checkmyinput' is defined but never used     no-unused-vars
+  18:10  warning  'checkmyinputB' is defined but never used    no-unused-vars
+  34:10  warning  'checkmyinputC' is defined but never used    no-unused-vars
+  52:10  warning  'checkmyinputZ' is defined but never used    no-unused-vars
+  69:10  warning  'checkmyinputCin' is defined but never used  no-unused-vars
+  86:10  warning  'checkmyinputP' is defined but never used    no-unused-vars
+
+✖ 12 problems (0 errors, 12 warnings)
+
